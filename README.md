@@ -23,9 +23,9 @@ I am looking for an opportunity in IT support, networking, or junior systems adm
 
 ## 🧰 Tools I Use
 
-**Systems:** Proxmox VE · Debian Linux · LXC containers · Windows 11 · Azure
-**Scripting:** Bash · PowerShell · Python
-**Practices:** Git and GitHub · SSH key authentication · firewalls and two-factor login · backups and restore testing · documentation
+- **Systems:** Proxmox VE · Debian Linux · LXC containers · Windows 11 · Azure
+- **Scripting:** Bash · PowerShell · Python
+- **Practices:** Git and GitHub · SSH key authentication · firewalls and two-factor login · backups and restore testing · documentation
 
 ## 🖥️ Information Technology Projects
 

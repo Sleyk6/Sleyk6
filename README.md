@@ -1,3 +1,5 @@
+![IT Support • Networking • Cybersecurity](assets/banner.png)
+
 # Hi, I'm Kirron 👋
 
 ## IT Support | Networking | Windows | Linux

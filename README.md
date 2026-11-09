@@ -18,7 +18,7 @@ I am looking for an opportunity in IT support, networking, or junior systems adm
 |---|---|
 | [**Linux Sysadmin Home Lab**](https://github.com/Sleyk6/linux-sysadmin-homelab) | Built a hardened **Proxmox VE** server on a repurposed laptop: firewall, two-factor login, SSH keys only, a NAT lab network, nightly backups with a tested restore, and a wired uplink that survives reboots. Linux labs are documented with real command output and troubleshooting notes. |
 | [**Linux System Health Monitor**](https://github.com/Sleyk6/linux-system-health-monitor) | **Bash** script that grades CPU, memory, disk, failed services, gateway, DNS and internet as PASS / WARN / FAIL. It returns monitoring-friendly exit codes and keeps daily logs with automatic cleanup. |
-| [**PADDOCK F1 Control**](https://github.com/Sleyk6/paddock-f1-control) | **Python** + JavaScript data dashboard built on public REST APIs, with caching, rate limiting, data-source labelling, hourly self-refresh and 46 automated tests. |
+| [**PADDOCK F1 Control**](https://github.com/Sleyk6/paddock-f1-control) | **Python** + JavaScript data dashboard built on public REST APIs, with caching, rate limiting, data-source labelling, hourly self-refresh and 47 automated tests. |
 | [**osTicket Help Desk Lab**](https://github.com/Sleyk6/osticket-help-desk-lab) | Help desk deployment on **Azure**, with troubleshooting and the full ticket lifecycle. |
 
 ## 🧰 Tools I Use

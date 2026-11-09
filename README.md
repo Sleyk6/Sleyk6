@@ -10,11 +10,42 @@ Today, I am developing practical experience through hands-on labs focused on net
 
 I am looking for an opportunity in IT support, networking, or junior systems administration where I can apply my military communications experience while continuing to develop my networking, Windows, and Linux skills.
 
+**Studying toward:** CompTIA Linux+ · CompTIA Security+ · Cisco CCNA
+
+## ⭐ Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [**Linux Sysadmin Home Lab**](https://github.com/Sleyk6/linux-sysadmin-homelab) | Built a hardened **Proxmox VE** server on a repurposed laptop: firewall, two-factor login, SSH keys only, a NAT lab network, nightly backups with a tested restore, and a wired uplink that survives reboots. Linux labs are documented with real command output and troubleshooting notes. |
+| [**Linux System Health Monitor**](https://github.com/Sleyk6/linux-system-health-monitor) | **Bash** script that grades CPU, memory, disk, failed services, gateway, DNS and internet as PASS / WARN / FAIL. It returns monitoring-friendly exit codes and keeps daily logs with automatic cleanup. |
+| [**PADDOCK F1 Control**](https://github.com/Sleyk6/paddock-f1-control) | **Python** + JavaScript data dashboard built on public REST APIs, with caching, rate limiting, data-source labelling, hourly self-refresh and 46 automated tests. |
+| [**osTicket Help Desk Lab**](https://github.com/Sleyk6/osticket-help-desk-lab) | Help desk deployment on **Azure**, with troubleshooting and the full ticket lifecycle. |
+
+## 🧰 Tools I Use
+
+**Systems:** Proxmox VE · Debian Linux · LXC containers · Windows 11 · Azure
+**Scripting:** Bash · PowerShell · Python
+**Practices:** Git and GitHub · SSH key authentication · firewalls and two-factor login · backups and restore testing · documentation
+
 ## 🖥️ Information Technology Projects
 
 ### Help Desk / IT Support
-
 - [osTicket Help Desk Deployment and Troubleshooting Lab](https://github.com/Sleyk6/osticket-help-desk-lab)
+
+## 🐧 Linux Administration Projects
+
+### Completed
+- [Proxmox VE home lab server: build, hardening, networking, backups](https://github.com/Sleyk6/linux-sysadmin-homelab/tree/main/02-proxmox-homelab-server)
+- [System identification](https://github.com/Sleyk6/linux-sysadmin-homelab/blob/main/01-linux-environment/system-identification.md)
+- [Users and groups](https://github.com/Sleyk6/linux-sysadmin-homelab/blob/main/01-linux-environment/users-and-groups.md)
+- [File permissions](https://github.com/Sleyk6/linux-sysadmin-homelab/blob/main/01-linux-environment/file-permissions.md)
+- [Bash scripting: Linux System Health Monitor](https://github.com/Sleyk6/linux-system-health-monitor)
+
+### In Progress
+- Services and Processes (systemd)
+- Linux Networking
+- Log Analysis
+- Linux Server Troubleshooting
 
 ## 🌐 Networking Projects
 
@@ -37,15 +68,3 @@ I am looking for an opportunity in IT support, networking, or junior systems adm
 - File Shares and NTFS Permissions
 - Windows Server Administration
 - PowerShell Administration
-
-## 🐧 Linux Administration Projects
-
-### Planned Projects
-- Linux CLI Administration
-- Users, Groups, and Permissions
-- SSH
-- Linux Networking
-- Services and Processes
-- Log Analysis
-- Bash Scripting
-- Linux Server Troubleshooting
